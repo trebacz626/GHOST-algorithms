@@ -11,3 +11,9 @@ w folderze Leetcode tworzymy folder formatu `numer_zadania[nazwa_zadania][#tagi]
 ## Naming commits
 
 Name of commit should be "{name of section} | {name_of_task or multiple separated by comas} | {additional_comments}"
+
+## Hashtagi
+* #DP
+* #Easy
+* #Medium
+* #Hard
